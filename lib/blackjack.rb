@@ -34,7 +34,9 @@ def initial_round
   # code #initial_round here
 end
 
-def hit?
+def hit?(card_total)
+  valid_commands = ["h", "s"]
+  
   # code hit? here
 end
 
