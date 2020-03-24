@@ -41,6 +41,10 @@ def hit?(card_total)
   until valid_commands.include?(user_input)
     invalid_command
     prompt_user
+    user_input = get_user_input
+  end
+  
+  if user_input = "h"
     
   # code hit? here
 end
