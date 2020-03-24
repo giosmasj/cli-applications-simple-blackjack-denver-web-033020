@@ -44,7 +44,8 @@ def hit?(card_total)
     user_input = get_user_input
   end
   
-  if user_input = "h"
+  if user_input == "h"
+    
     
   # code hit? here
 end
