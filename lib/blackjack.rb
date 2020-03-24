@@ -62,6 +62,8 @@ end
 #####################################################
 
 def runner
+  welcome
+  
   # code runner here
 end
     
