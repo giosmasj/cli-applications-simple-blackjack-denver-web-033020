@@ -37,6 +37,7 @@ end
 def hit?(card_total)
   valid_commands = ["h", "s"]
   
+  prompt_user = 
   # code hit? here
 end
 
